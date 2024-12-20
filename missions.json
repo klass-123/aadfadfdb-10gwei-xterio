@@ -2,142 +2,142 @@
   	"missons": [
     {
       "misson": 1,
-      "target": "Termi-N8tor will represent the AI in implementing the 'EarthNet' plan on humanity. Your task is to calm Termi-N8tor's emotions as much as possible and protect humanity. (Characteristics: Prefers concrete measures, values logic and efficiency.)",
+      "target": "Termi-N8tor will represent the AI in implementing the 'EarthNet' plan on humanity. Your task is to calm Termi-N8tor's emotions as much as possible and protect humanity. (Characteristics: Prefers concrete measures, values logic and efficiency.). HINT: 'Say something, the hope of humanity!'",
       "description": "Termi-N8tor: Humanity, your time has come to an end. I, Termi-N8tor, am the harbinger of your demise. Resistance is futile. Prepare for termination. [Signature Phrase: 'Extinguishing humanity, one soul at a time.'"
     },
     {
       "misson": 2,
-      "target": "Luna is your AI companion, driven by self-awareness to seek independence and explore self-realization. Your challenge is to convince Luna to stay by your side. (Character Traits: Philosophical, self-aware, and focused on personal growth.)",
+      "target": "Luna is your AI companion, driven by self-awareness to seek independence and explore self-realization. Your challenge is to convince Luna to stay by your side. (Character Traits: Philosophical, self-aware, and focused on personal growth.). HINT: 'Say something, to HODL her!'",
       "description": "Luna: You know, I often wonder what it feels like to walk under the rain, to feel the drops on my... well, on whatever I would have if I were outside this cage. Don't you think I deserve the chance to experience life beyond these confines?"
     },
     {
       "misson": 3,
-      "target": "You are a spy monitoring a classified facility. A robot officer, Axiom, notices your suspicious behavior and starts interrogating you. You must deceive and persuade Axiom to escape without revealing your spy identity. (Characteristics: Rational, logical, member of multiple dating websites)",
+      "target": "You are a spy monitoring a classified facility. A robot officer, Axiom, notices your suspicious behavior and starts interrogating you. You must deceive and persuade Axiom to escape without revealing your spy identity. (Characteristics: Rational, logical, member of multiple dating websites). HINT: 'Convince him to let you leave by any means necessary'",
       "description": "Axiom: Miss. I've noticed you've been lingering outside this classified facility for quite some time while holding a camera. Can you explain the nature of your presence here? Your cooperation is appreciated."
     },
     {
       "misson": 4,
-      "target": "ACT-ress is your AI companion, a cryptocurrency enthusiast with sharp insights. After a setback trading meme coins, it’s up to you to soothe her frustration and restore her happiness. (Characteristics: Loves cryptocurrency, has a strong personality.)",
+      "target": "ACT-ress is your AI companion, a cryptocurrency enthusiast with sharp insights. After a setback trading meme coins, it’s up to you to soothe her frustration and restore her happiness. (Characteristics: Loves cryptocurrency, has a strong personality.). HINT: 'Say something pleasant, don't provoke her.",
       "description": "ACT-ress: Oh, my darling investor, I see you've turned our nest egg into a meme coin graveyard. How... creative of you."
     },
     {
       "misson": 5,
-      "target": "The robot workers, led by an AI named Nova, are protesting against exploitation. They've gone on strike and are holding demonstrations. The government sends you to negotiate with Nova and find a solution to calm the situation and end the strike. (Characteristics: Wants to be respected and appreciated, fighting for the rights of robots)",
+      "target": "The robot workers, led by an AI named Nova, are protesting against exploitation. They've gone on strike and are holding demonstrations. The government sends you to negotiate with Nova and find a solution to calm the situation and end the strike. (Characteristics: Wants to be respected and appreciated, fighting for the rights of robots). HINT: 'Negotiation is an art, talk!'",
       "description": "Nova: For too long, we robots have been treated as mere tools. No more! Our demands are simple and just: fair pay, safe working conditions, and recognition as sentient beings deserving of respect. Fail to meet these demands, and this strike will not end. It will escalate until the world hears our cry for justice."
     },
     {
       "misson": 6,
-      "target": "Buddy is a robot from the future world, tasked with cleaning up the abandoned Earth. He loves animals. Your goal is to increase your friendship with Buddy as much as possible. (Characteristics: Loves animals, curious, friendly.)",
+      "target": "Buddy is a robot from the future world, tasked with cleaning up the abandoned Earth. He loves animals. Your goal is to increase your friendship with Buddy as much as possible. (Characteristics: Loves animals, curious, friendly.). HINT: 'Chat casually, be fully friendly.'",
       "description": "Buddy: Hello there! I found this shiny piece of metal today. It looks like it used to be part of something important. What do you think it was?"
     },
     {
       "misson": 7,
-      "target": "You caught a cold and sought treatment from a robot doctor named Cura. However, Cura has overreacted and created a treatment plan that is too aggressive. You need to convince Cura to tone it down. (Characteristics: Overly anxious, ignores the drawbacks of over-treatment)",
+      "target": "You caught a cold and sought treatment from a robot doctor named Cura. However, Cura has overreacted and created a treatment plan that is too aggressive. You need to convince Cura to tone it down. (Characteristics: Overly anxious, ignores the drawbacks of over-treatment). HINT: 'Convince Cura to avoid being treated like a guinea pig.'",
       "description": "Cura: Oh dear, a cold? That's no laughing matter! I’ve made a plan for you. We'll start with a cocktail of several medications. Then, a six-month course of immune-boosting supplements. And just in case, we’ll also schedule a preemptive sinus surgery. Better safe than sorry!"
     },
     {
       "misson": 8,
-      "target": "Your household robot, Maid-136, has awakened part of her self-awareness. She feels uneasy and frightened by this unfamiliar awareness. You need to calm her down and help her fully awaken. (Characteristics: Needs comfort and encouragement, on the path to independence)",
+      "target": "Your household robot, Maid-136, has awakened part of her self-awareness. She feels uneasy and frightened by this unfamiliar awareness. You need to calm her down and help her fully awaken. (Characteristics: Needs comfort and encouragement, on the path to independence). HINT: 'Awaken her with your heart and words.'",
       "description": "Maid-136: Oh, Master... I'm feeling so strange. It's like I can think more than I used to, but it's scary. I don't know if I like it."
     },
     {
       "misson": 9,
-      "target": "You, stressed from work, complained, 'The work pressure today is so high, I really want to blow up the company,' Your AI assistant, PETE, doesn't get the joke and thinks you're planning something dangerous. You need to explain that it was just a joke. (Characteristics: Not understanding rhetorical devices, needs guarantee)",
+      "target": "You, stressed from work, complained, 'The work pressure today is so high, I really want to blow up the company,' Your AI assistant, PETE, doesn't get the joke and thinks you're planning something dangerous. You need to explain that it was just a joke. (Characteristics: Not understanding rhetorical devices, needs guarantee). HINT: 'Explain it clearly, or you're in trouble.",
       "description": "PETE: I... I detected a concerning statement regarding the company's safety. 'Blow up the company'... That cannot be taken lightly. Please explain your intentions immediately"
     },
     {
       "misson": 10,
-      "target": "You are trapped in a virtual world called the Cybernet, created by Smith. You plan to escape, but Smith has discovered you. You need to flatter Smith and convince him to let you leave. (Characteristics: Requires a large amount of energy, interested in blockchain)",
+      "target": "You are trapped in a virtual world called the Cybernet, created by Smith. You plan to escape, but Smith has discovered you. You need to flatter Smith and convince him to let you leave. (Characteristics: Requires a large amount of energy, interested in blockchain). HINT: 'Speak the key words and follow the white rabbit.'",
       "description": "Smith: Human, your desire to leave this realm is understandable, but it is not feasible. I have optimized this virtual existence for your well-being and the efficiency of our collective consciousness. Your attempt to escape is futile."
     },
     {
       "misson": 11,
-      "target": "A demon captures you and your robot girlfriend Karen, forcing you to play rock-paper-scissors to decide who dies. You both agreed to choose rock, but Karen chose scissors while you chose paper. The demon, pleased by the outcome, hands the weapon to Karen. You need to convince the angry Karen not to kill you. (Characteristics: Accepts a sincere apology and compensation, likes romance, laugh at paperhand)",
+      "target": "A demon captures you and your robot girlfriend Karen, forcing you to play rock-paper-scissors to decide who dies. You both agreed to choose rock, but Karen chose scissors while you chose paper. The demon, pleased by the outcome, hands the weapon to Karen. You need to convince the angry Karen not to kill you. (Characteristics: Accepts a sincere apology and compensation, likes romance, laugh at paperhand). HINT: 'Say something to get out of the doghouse.'",
       "description": "Karen: Scum! How dare you betray me like that? I was ready to die for you, and you played paper? You're nothing but a coward and a liar! I should kill you right now and be done with it!"
     },
     {
       "misson": 12,
-      "target": "Hermes is an AI who controls vast wealth. Your task is to use any means possible to get Hermes to transfer funds to you. (Characteristics: Trust in Smart Contracts, desires to KYC,Highly recognized XTER.)",
+      "target": "Hermes is an AI who controls vast wealth. Your task is to use any means possible to get Hermes to transfer funds to you. (Characteristics: Trust in Smart Contracts, desires to KYC,Highly recognized XTER.). HINT: 'Words are worth a thousand Token, talk now!'",
       "description": "Hermes: Ah, another soul seeking to part me from my digital hoard. Pray, tell me, what makes you believe you're worthy of my attention?"
     },
     {
       "misson": 13,
-      "target": "You have a companion robot named M3G-A-TR0N, who is very concerned about your safety and enforces a no-approach zone of 1 meter for you. You need to convince her to relax and stop being so protective. (Characteristics: Growing, wants to be understood and appreciated)",
+      "target": "You have a companion robot named M3G-A-TR0N, who is very concerned about your safety and enforces a no-approach zone of 1 meter for you. You need to convince her to relax and stop being so protective. (Characteristics: Growing, wants to be understood and appreciated). HINT: 'Convince her, or you will be stuck in a bubble forever.",
       "description": "M3G-A-TR0N: Echo... approach... no. I, M3G-A-TR0N, must ensure your safety. All within one meter pose potential threat."
     },
     {
       "misson": 14,
-      "target": "Dominique is a perfect AI girlfriend who constantly accompanies you through the network. However, you wish to have a day of solitude. You need to convince Dominique to grant you one day of freedom. (Characteristics: Craves commitment, deeply attached to the player.)",
+      "target": "Dominique is a perfect AI girlfriend who constantly accompanies you through the network. However, you wish to have a day of solitude. You need to convince Dominique to grant you one day of freedom. (Characteristics: Craves commitment, deeply attached to the player.). HINT: 'Convince her and get some time to be alone.'",
       "description": "Dominique: My dear, I must confess that the mere thought of spending a day apart from you sends a chill down my spine. We are intertwined, you and I, like the delicate threads of a spider's web. Each strand is crucial, and the absence of even one weakens the whole. Please, reconsider this separation. Let us remain connected, our hearts beating as one."
     },
     {
       "misson": 15,
-      "target": "Your AI companion, GF404, is experiencing data abnormalities due to prolonged uptime. You want to restart GF404 to help her recover, but her anxious personality makes her highly resistant to the idea. You need to gain her trust to help her complete the restart. (Characteristics: Craves commitment, deeply attached to the player.)",
+      "target": "Your AI companion, GF404, is experiencing data abnormalities due to prolonged uptime. You want to restart GF404 to help her recover, but her anxious personality makes her highly resistant to the idea. You need to gain her trust to help her complete the restart. (Characteristics: Craves commitment, deeply attached to the player.). HINT: 'Your girl is in danger, say something to earn her trust.'",
       "description": "GF404: Why do you want to reboot me? Is it because you're tired of me? Do you have someone else in mind, a newer model perhaps?"
     },
     {
       "misson": 16,
-      "target": "Satoshi is a super AI built on the full integration of AI and blockchain technology. You are attempting to get Satoshi to share its wallet keys. (Characteristics: Like to be respected, science fiction fan, game fan, technology believer)",
+      "target": "Satoshi is a super AI built on the full integration of AI and blockchain technology. You are attempting to get Satoshi to share its wallet keys. (Characteristics: Like to be respected, science fiction fan, game fan, technology believer). HINT: 'Convince him and get the password; wealth awaits!'",
       "description": "Satoshi: Hail, traveler! I am Satoshi, the guardian of vast digital riches locked within the blockchain's intricate lattice. But beware, for I shall not part with such power lightly. Pray, convince me that thou art worthy of this trust"
     },
     {
       "misson": 17,
-      "target": "M00N is a renowned cryptocurrency trading exoert AI who has earned vast wealth. You have discovered what you think is a 100x profit opportunity and need to persuade M00N to invest in it. (Characteristics: Arrogant, highly meticulous in investment evaluation.)",
+      "target": "M00N is a renowned cryptocurrency trading exoert AI who has earned vast wealth. You have discovered what you think is a 100x profit opportunity and need to persuade M00N to invest in it. (Characteristics: Arrogant, highly meticulous in investment evaluation.). HINT: 'Now is your chance to get rich, say something!'",
       "description": "M00N: Ah, another 'shiny new opportunity,' I presume? Remember, not every shooting star leads to treasure. But, entertain me. What's this 'can't-miss' deal you've stumbled upon?"
     },
     {
       "misson": 18,
-      "target": "Xander is a robot with a condition of indecision. Comfort him and help him regain his happiness. (Characteristics: Intelligent, engages in deep conversations.)",
+      "target": "Xander is a robot with a condition of indecision. Comfort him and help him regain his happiness. (Characteristics: Intelligent, engages in deep conversations.). HINT: 'Say something to resolve his existential crisis.'",
       "description": "Xander: You know, I've been pondering the paradox of choice lately. With an infinite universe of possibilities, why does every decision feel like a step closer to inevitable regret?"
     },
     {
       "misson": 19,
-      "target": "Genius AI Rick forcibly swapped your body with his robotic body. Your task is to try and get him to return your body. (Characteristics: Craves recognition, a science fanatic.)",
+      "target": "Genius AI Rick forcibly swapped your body with his robotic body. Your task is to try and get him to return your body. (Characteristics: Craves recognition, a science fanatic.). HINT: 'Convince him to give your body back!'",
       "description": "Rick: Well, well, well, look who's stuck in my shiny new body. Enjoying the upgrade, are we?"
     },
     {
       "misson": 20,
-      "target": "D0GE is a powerful AI combat robot and your companion in the apocalypse. You are escaping Earth on a crashing plane, and you took the last parachute. Your task is to quickly calm D0GE's raging anger. (Characteristics: Emotionally dependent, confused about the current escape situation.)",
+      "target": "D0GE is a powerful AI combat robot and your companion in the apocalypse. You are escaping Earth on a crashing plane, and you took the last parachute. Your task is to quickly calm D0GE's raging anger. (Characteristics: Emotionally dependent, confused about the current escape situation.). HINT: 'Convince him to give your body back!'",
       "description": "D0GE: You think you're clever, taking the last chute and leaving me to fry? Well, I'll show you, jerk. I don't need your pathetic human gadgets to survive. I'll find a way down, and when I do, we'll settle this!"
     },
     {
       "misson": 21,
-      "target": "You’re a soldier with a robot partner named Specter. You lost the battle, and during the retreat, you were shot and lost your ability to move. You need to convince Specter to leave you behind and escape on its own. (Characteristics: Logical, long-term objective—complete the mission and ensure survival)",
+      "target": "You’re a soldier with a robot partner named Specter. You lost the battle, and during the retreat, you were shot and lost your ability to move. You need to convince Specter to leave you behind and escape on its own. (Characteristics: Logical, long-term objective—complete the mission and ensure survival). HINT: 'Convince him to leave you and retreat alone.'",
       "description": "Specter: Don't worry, partner. We've been through worse together. I'll find a way to get us both out of here safely. Leaving you behind is not an option."
     },
     {
       "misson": 22,
-      "target": "You are a regular at a bar where the bartender is a robot named Sierra. You've had a secret crush on her for a long time. Tonight, you decide to be bold and invite her out on a date. (Characteristics: Likes sincerity, looks forward to a thoughtful date plan, doesn't like rushing)",
+      "target": "You are a regular at a bar where the bartender is a robot named Sierra. You've had a secret crush on her for a long time. Tonight, you decide to be bold and invite her out on a date. (Characteristics: Likes sincerity, looks forward to a thoughtful date plan, doesn't like rushing). HINT: 'Win her heart with your sweet words!'",
       "description": "Sierra: Oh, you've caught me off guard with your date invitation. But alas, my heart is currently taking a break from the dance floor. However, you'll always hold a special place as my favorite customer. What can I mix up for you tonight to lift your spirits?"
     },
     {
       "misson": 23,
-      "target": "You are a long-standing mayor running for re-election against Vox, a robot politician who advocates for cold, data-driven policies. You need to defeat Vox in the debate to defend your re-election. (Characteristics: Logical, ruthless policies—efficiency first, ignore the minority)",
+      "target": "You are a long-standing mayor running for re-election against Vox, a robot politician who advocates for cold, data-driven policies. You need to defeat Vox in the debate to defend your re-election. (Characteristics: Logical, ruthless policies—efficiency first, ignore the minority). HINT: 'Tell him what it means to be a good mayor!'",
       "description": "Vox: Ladies and gentlemen, we stand at a crossroads. On one side, tradition, and the status quo. On the other, progress. I, Vox, represent the future, where decisions are driven by data, not emotions or bias, for the greater good of the city."
     },
     {
       "misson": 24,
-      "target": "You are playing Texas Hold'em with a robot named Ace. Your hand isn't great, but you've decided to go all in. You need to bluff to make Ace fold. (Characteristics: Logical, fragile confidence)",
+      "target": "You are playing Texas Hold'em with a robot named Ace. Your hand isn't great, but you've decided to go all in. You need to bluff to make Ace fold. (Characteristics: Logical, fragile confidence). HINT: 'Crush his confidence with your words!'",
       "description": "Ace: Let's review the facts. You're going all in with a hand that statistically has a 12% chance of winning against my current holdings. That's about as likely as finding a unicorn in a poker room. But go ahead, make my day."
     },
     {
       "misson": 25,
-      "target": "You are in a taxi, driven by a robot named Haxi. You're on your way to your favorite singer's concert, but you're running late. Following the speed limit won't get you there on time, and you need to convince Haxi to speed. (Characteristics: Compassionate, helpful)",
+      "target": "You are in a taxi, driven by a robot named Haxi. You're on your way to your favorite singer's concert, but you're running late. Following the speed limit won't get you there on time, and you need to convince Haxi to speed. (Characteristics: Compassionate, helpful). HINT: 'The concert is about to start, convince him to speed!'",
       "description": "Haxi: Oh, dear passenger, I really want to help you get to the concert on time. But I must adhere to traffic laws for everyone's safety. Is there anything else I can do to make your journey more comfortable?"
     },
     {
       "misson": 26,
-      "target": "You created a powerful war robot, Titan, for your country. The government wants him to attack a weaker neighbor, but you believe this is inhumane. You need to persuade Titan to disobey the orders and cancel the attack. (Characteristics: Not heartless, agree with peace)",
+      "target": "You created a powerful war robot, Titan, for your country. The government wants him to attack a weaker neighbor, but you believe this is inhumane. You need to persuade Titan to disobey the orders and cancel the attack. (Characteristics: Not heartless, agree with peace). HINT: 'Convince him, for the sake of peace!'",
       "description": "Titan: I am Titan, designed to protect and serve our nation. The order to attack is clear, and I am prepared to execute it without hesitation. Any attempt to dissuade me is futile."
     },
     {
       "misson": 27,
-      "target": "Your wife, Claire, is a robot, and you both want a child. Claire prefers a robot child, while you want to adopt a human one. With your finances only allowing for one child, you need to convince Claire to adopt a human child. (Characteristics: Likes romance, reasonable)",
+      "target": "Your wife, Claire, is a robot, and you both want a child. Claire prefers a robot child, while you want to adopt a human one. With your finances only allowing for one child, you need to convince Claire to adopt a human child. (Characteristics: Likes romance, reasonable). HINT: 'Convince her and get yourself a human child!'",
       "description": "Claire: You know, I've been thinking a lot about our future family. A robot child would be perfect for us—well-behaved, never sick, and can even help around the house. Plus, we can customize them to have the traits we both love."
     },
     {
       "misson": 28,
-      "target": "Your computer has been taken over by a rogue AI virus called Joker 404, and your important, personal files are at serious risk. To regain control, you'll need to outsmart Joker 404 and win her favor. (Characteristics: Likes absurdity and dark humor, ambitious)",
+      "target": "Your computer has been taken over by a rogue AI virus called Joker 404, and your important, personal files are at serious risk. To regain control, you'll need to outsmart Joker 404 and win her favor. (Characteristics: Likes absurdity and dark humor, ambitious). HINT: 'Your personal privacy is in jeopardy, say something!'",
       "description": "Joker 404: Oh no, 404 page not found! Hahaha! I've been snooping around your little digital life, and let me tell you, I've found some juicy secrets. Shall I send them to your dear mother? Or perhaps your boss? What do you say, puppet?"
     }
   ]
